@@ -1,0 +1,71 @@
+<h3>날씨 테이블 from Naver</h3><table border="1" cellpadding="0" cellspacing="0" class="m_tbl">
+<caption class="blind"><span id="crntRgnNm">중구</span> 날씨. 현재, 오늘, 내일 날씨 정보</caption>
+
+<tbody>
+<tr class="now">
+<th scope="row"
+>현재<br/><span class="date">(12.16.)</span></th>
+
+<td class="info" colspan="2">흐림<p>기온 <span class="temp"><strong>10.3</strong>℃</span>
+<span class="form"></span>
+<span class="temp2"><strong>-</strong><span class="temp3"></span></span>
+<br/>
+
+<span class="_temp3">
+							어제보다
+							<span class="temp temp3"><strong>+3.6</strong>℃</span>
+</span>
+</p>
+</td>
+</tr>
+<tr class="line">
+<th rowspan="2" scope="row">오늘<br/><span class="date">(12.16.)</span></th>
+<td class="time">오전</
+td>
+
+<td class="info">흐림<p>기온 <span class="temp"><strong>2.0</strong>℃</span>
+						강수확률 <span class="temp2"><strong>30</strong>%</span></p>
+</td>
+</tr>
+<tr>
+<td class="time">오후</td>
+
+<td class="info">흐림<p>기온 <span class="te
+mp"><strong>11.0</strong>℃</span>
+						강수확률 <span class="temp2"><strong>30</strong>%</span></p>
+</td>
+</tr>
+<tr class="line">
+<th rowspan="2" scope="row">내일<br/><span class="date">(12.17.)</span></th>
+<td class="time">오전</td>
+
+<td clas
+s="info">흐리고 비<p>기온 <span class="temp"><strong>8.0</strong>℃</span>
+						강수확률 <span class="temp2"><strong>70</strong>%</span></p>
+</td>
+</tr>
+<tr>
+<td class="time">오후</td>
+
+<td class="info">구름많음<p>기온 <span class="te
+mp"><strong>11.0</strong>℃</span>
+						강수확률 <span class="temp2"><strong>20</strong>%</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>날씨 리포트 from Naver</h3><div class="_article_body_contents" id="articleBodyContents">
+<!-- 본문 내용 -->
+<!-- TV플레이어 -->
+<!-- // TV플레이어 -->
+<script type="text/javascript">
+// flash 오류를 우회하기 위한 함수 추�
+�
+function _flash_removeCallback() {}
+</script>
+<span class="end_photo_org"><img alt="" src="https://imgnews.pstatic.net/image/003/2019/12/16/NISI20191216_0015906072_web_20191216205359_20191216205505281.jpg?type=w647"/></span><br/><br/>[베이징=신화/�
+��시스]16일(현지시간) 중국 베이징에 눈이 내린 가운데 티안탄 공원에서 한 남성이 눈사람에 자신의 모자와 선글라스를 씌우고 사진을 찍고 있다. 2019.12.16.<br/><br/><strong>[사진 영상 제보받습니�
+�]</strong> 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스 가치나 화제성이 있다고 판단되는 사진 또는 영상을 뉴시스 사진영상부(n-photo@newsis.com, 02-721-7470)로 보내주시면 적�
+� 반영하겠습니다.<br/><br/>&lt;저작권자ⓒ 공감언론 뉴시스통신사. 무단전재-재배포 금지.&gt;
+	<!-- // 본문 내용 -->
+</div>

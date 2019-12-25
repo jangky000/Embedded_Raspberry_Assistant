@@ -1,0 +1,1 @@
+./RA3 -platform xcb &
